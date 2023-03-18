@@ -64,7 +64,6 @@ h2 {
 /* Container holding the image and the text */
 .container {
     position: relative;
-    color: white;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     justify-content: center;

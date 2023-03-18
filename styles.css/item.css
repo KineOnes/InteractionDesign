@@ -1,0 +1,33 @@
+img {
+    max-width: 100%;
+  }
+
+.container {
+    text-align: center;
+    display: flex; 
+    max-width: 635px;
+    max-height: 433px;
+}
+
+.text {
+    margin-bottom: 30px;
+}
+
+.item {
+    text-align: center;
+    flex: 1px;
+    padding: 5px;
+} 
+
+@media(max-width: 600px){
+    .container{
+      flex-direction: column;
+      grid-template-columns: 1fr;
+    }
+
+    .info_background {
+        margin-top: 30px;
+        max-width: 200px;
+    }
+
+  }
