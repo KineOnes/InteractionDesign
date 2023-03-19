@@ -146,7 +146,7 @@ footer {
         grid-template-columns: 1fr;
     }
 
-    .info_background {
+    .info_background .text {
         margin-top: 20px;;
         max-width: 280px;
     }
