@@ -117,14 +117,19 @@ footer {
 }
 
 .info_background {
-    background: url(../Images/background_about.png) no-repeat center center fixed; 
+    /*background: url(../Images/background_about.png) no-repeat center center fixed; 
     background-size: cover;
-    max-width: 1000px;
-    /*min-height: 100vh; display: flex; flex-direction: column;*/
-    font-family: Arial, Helvetica, sans-serif;
-    min-height: 470px;
+    min-height: 100vh; display: flex; flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;*/
+    max-width: 750px;
+    min-height: 370px;
     margin: auto;
     padding-top: 10px;
+}
+
+.aboutImage {
+    max-width: 750px;
+    max-height: 150px;
 }
 
 .signature {
