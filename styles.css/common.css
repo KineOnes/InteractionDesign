@@ -170,5 +170,8 @@ footer {
     .text {
         max-width: 280px;
     }
-    
+
+    .aboutImage {
+        max-width: 290px; 
+    } 
 }
