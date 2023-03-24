@@ -71,9 +71,7 @@ p {
 }
 
 .text {
-
     padding-left: 30px;
-
 }
 
 .sizes {
@@ -106,6 +104,7 @@ p {
     position: relative;
     padding: 3px;
     margin-bottom: 15px;
+    display: inline-block;
 }
 
 .category-item:hover {

@@ -2,6 +2,10 @@ img {
     max-width: 100%;
   }
 
+h2 {
+    text-align: left;
+}  
+
 .container {
     position: relative;
     display: grid;
