@@ -25,7 +25,7 @@ main {
     max-width: 250px;
 }
 
- a {
+a {
     color: white;
 }
 
@@ -68,6 +68,12 @@ p {
 
 .info {
     margin-bottom: 10px;
+}
+
+.text {
+    text-decoration: underline;
+    padding-left: 30px;
+
 }
 
 /* Container holding the image and the text */

@@ -1,3 +1,5 @@
+/* This code is work in progress. Fetchin from localstorage.*/ 
+
 fetch("products.json")
 .then(function(response){
     return response.json();
