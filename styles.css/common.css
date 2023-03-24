@@ -71,9 +71,26 @@ p {
 }
 
 .text {
-    text-decoration: underline;
+
     padding-left: 30px;
 
+}
+
+.sizes {
+    display: flex;
+    gap: 8px;
+}
+
+.size {
+    display: inline;
+    max-width: 10px;
+    padding: 20px;
+    background-color: #2a749735;
+    border-radius: 10px;
+}
+
+.size:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 /* Container holding the image and the text */
@@ -89,6 +106,10 @@ p {
     position: relative;
     padding: 3px;
     margin-bottom: 15px;
+}
+
+.category-item:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 /* Centered text */
