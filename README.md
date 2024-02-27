@@ -1,6 +1,6 @@
 # Cross Course project / RainyDays
 
-![image](./images/RainyDays_screenshot.png)
+![image](./Images/RainyDays_screenshot.png)
 An webshop selling rainwear for both men and women, that are interested in outdoor activities such as hiking, exploring, skiing etc.
 
 ## Description
